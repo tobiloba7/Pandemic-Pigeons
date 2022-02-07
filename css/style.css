@@ -1,0 +1,182 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&family=Bebas+Neue&family=Cabin&family=Cabin+Condensed:wght@400;600;700&family=Cabin+Sketch&family=Courgette&family=Rancho&display=swap');
+
+
+.container-header {
+    padding: 3% 12% 3.5%;
+}
+
+h1 {
+    font-family: 'Bangers', cursive;
+    font-size: 5rem;
+    padding-top: 3.5%;
+    padding-bottom: 4%;
+}
+
+#Title {
+    background-color: #2d2849;
+    color: #fff;
+}
+
+.title-img {
+    width: 85%;
+}
+.order-icon {
+    font-family: 'Cabin Sketch', cursive;
+}
+
+/* navbar */
+.navbar {
+    padding-bottom: 8%;
+}
+
+.navbar-brand {
+    font-family: 'Rancho', cursive;
+    font-size: 1.7rem;
+}
+
+.nav-item {
+    font-family: 'Cabin Sketch', cursive;
+    padding-right: 1.3rem;
+}
+
+/* features section */
+.features {
+    padding: 9% 14%;
+    text-align: center;
+}
+
+.hiw {
+    padding: 3%;
+}
+.icon {
+    color: #837cc3;
+    padding-bottom: 6%;
+}
+
+.feature-title {
+    font-family: 'Bangers', cursive;
+    font-size: 2.3rem;
+}
+
+p {
+    color: #8f8f8f;
+    font-size: 1.5rem;
+    font-family: 'Rancho', cursive;
+}
+
+/* capping section */
+.capping-section {
+    text-align: center;
+    background-color: black;
+    padding: 8% 15%;
+    color: #8e27c5;
+}
+
+.capping-title {
+    font-family: 'Bangers', cursive;
+    font-size: 3rem;
+    padding-bottom: 5%;
+}
+
+
+.capping-text {
+    font-family: 'Courgette', cursive;
+    line-height: 2.3rem;
+    color: white;
+}
+
+/* products section */
+.section-container {
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.products-header {
+    font-family: 'Bangers', cursive;
+    font-size: 3rem;
+}
+
+.products-p {
+    font-family: 'Rancho', cursive;
+    font-size: 1.5rem;
+}
+
+h3 {
+    font-family: 'Bangers', cursive;
+}
+
+
+
+
+    /* .btnp {
+        background-color: #837cc3;
+        border-color: #837cc3;
+        color: #fff;
+    } */
+
+.btnp:hover {
+    background-color: #837cc3;
+}
+
+/* testimonials section */
+#testimonials {
+    text-align: center;
+    background-color: #837cc3;
+    color: white;
+}
+
+.carousel-item {
+    padding: 16% 15%;
+}
+
+.text {
+    font-family: 'Rancho', cursive;
+    font-size: 3.5rem;
+}
+
+.imgs {
+    width: 15%;
+    border-radius: 100%;
+    margin: 20px;
+    
+}
+
+
+
+/* speech buble */
+#call {
+    padding: 7% 15% 5%;
+    text-align: center;
+}
+
+.standing-pigeon {
+    width: 80%;
+}
+
+.buble {
+    font-family: 'Bangers', cursive;
+    font-size: 4rem;
+    padding-bottom: 50px;
+}
+
+
+/* footer section */
+#footer {
+    padding: 4% 15%;
+    background-color: #2d2849;
+    text-align: center;
+    color: white;
+}
+
+.footericon-dad {
+    padding: 20px;
+}
+.footericon {
+    padding: 0.5rem;
+}
+
+.copyright {
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    color: white;
+}
